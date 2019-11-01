@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryVariant">#FFA726</color>
+    <color name="colorOnPrimary">#fff</color>
+
+    <color name="colorSecondary">#222</color>
+    <color name="colorSecondaryVariant">#424242</color>
+    <color name="colorOnSecondary">#fff</color>
+
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorLight">#FFFFFF</color>
+    <color name="colorLightVariant">#CCFFFFFF</color>
+
+    <color name="colorDark">#000</color>
+    <color name="colorDarkVariant">#868686</color>
+
+    <color name="colorLightInputBorder">#c5c5c5</color>
+
+
+    <color name="buttonEnabled">@color/colorPrimary</color>
+    <color name="buttonDisabled">#FFE0B2</color>
+    <color name="buttonPressed">@color/colorSecondary</color>
+    <color name="colorLink">#222</color>
+    <color name="colorLinkVariant">#858585</color>
+    <color name="colorSuccess">#66BB6A</color>
+    <color name="colorError">#EF5350</color>
+    <color name="colorWarn">#FFCA28</color>
+
+
+    <color name="colorAction">#FF9800</color>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorLight</item>
+
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="android:colorSecondary">@color/colorSecondary</item>
+
+        <item name="isLightTheme">true</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+
+        <item name="android:colorBackground">@color/colorLight</item>
+        <item name="android:statusBarColor">@color/colorLight</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Body1</item>
+    </style>
+
+
+    <style name="AppTheme.FullScreen">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="AppTheme.FullScreen.Light">
+        <item name="android:background">@color/colorLight</item>
+    </style>
+
+
+</resources>
